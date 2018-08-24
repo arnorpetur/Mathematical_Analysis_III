@@ -18,7 +18,7 @@ There should now be a template folder in /home/user.
 For Windows users the packages from above can be downloaded using [pip](https://pypi.org/project/pip/)
 
 Navigate to the template folder.
-Move the following folders from the Template folder to the root of your project: 
+The following folders are in the template folder: 
 
 * sagecell-extension
 * toggleblock-extension
